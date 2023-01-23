@@ -2,6 +2,7 @@ import React from 'react'
 import DATA from '../Data'
 import { NavLink } from 'react-router-dom'
 
+
 const Product = () => {
 
     const cardItem = (item) => {
